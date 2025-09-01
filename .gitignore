@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Model files (large/binary)
+*.h5
+*.keras
+
+# Dataset archives
+*.zip
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Uploaded test images
+upload/
+
+# VS Code settings
+.vscode/
